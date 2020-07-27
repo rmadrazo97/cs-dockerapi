@@ -30,4 +30,4 @@ EXPOSE 80
 #  to our working directory /app
 COPY --from=build-env /app/out .
 # Set the entry point for the app, (i.e. what should start), in this case it’s our published .dll using “dotnet”.
-ENTRYPOINT ["dotnet", "SimpleAPI.dll"]
+ENTRYPOINT ["dotnet", "SampleAppForDocker.dll"]
