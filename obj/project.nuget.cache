@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "xP2g5Inyg9iTw3ElTP1Cm6QUP0sYARa8vNC4re+Od1U90W0dRInqO4+Q5XwwdH//PNKw89MJMrMhiDXW5m3WLg==",
+  "dgSpecHash": "70q1mfOCj4jJMF7Uu0BdGwILzczRomiXZdAPnGr5u8nxLOv9Qfg5jY58X+z7hJyd80Jgh7B60exIDjd3TPzr9A==",
   "success": true,
-  "projectFilePath": "D:\\Dev\\minor\\allied\\UAD\\DockerAPI\\DockerAPI.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "d:\\Dev\\minor\\allied\\UAD\\DockerAPI\\DockerAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amadr\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "C:\\Users\\amadr\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "C:\\Users\\amadr\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "C:\\Users\\amadr\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "C:\\Users\\amadr\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "C:\\Users\\amadr\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\amadr\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
